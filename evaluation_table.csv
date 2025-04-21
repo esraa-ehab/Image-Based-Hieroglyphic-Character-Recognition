@@ -1,0 +1,1 @@
+Model,Test Accuracy,Test Precision,Test RecallInception,0.9723,0.9638,0.9644VGG,0.9421,0.9598,0.9158ResNet,0.01645,0.000442,0.01542MobileNet,0.9779,0.9795,0.9759
